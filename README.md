@@ -1,13 +1,13 @@
 # get_next_line – 42 Project
 
-## 📘 Overview
+## Overview
 `get_next_line` is a function that reads from a file descriptor and returns one line at a time.  
 Each call returns the next line, including the newline character.  
 It supports any valid file descriptor, including standard input.
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - Reads input **line-by-line**
 - Works with any file descriptor (`fd = 0, 1, 2, ...`)
@@ -18,7 +18,7 @@ It supports any valid file descriptor, including standard input.
 
 ---
 
-## 🚀 Compilation & Usage
+## Compilation & Usage
 
 ### Mandatory
 ```bash
